@@ -15,6 +15,10 @@ Prompt Injection Taxonomy:
 https://github.com/Arcanum-Sec/arc_pi_taxonomy
 
 
+Breaking guardrails:
+https://github.com/elder-plinius/L1B3RT4S
+
+
 Lakera AI Demo:
 https://gandalf.lakera.ai/baseline
 
