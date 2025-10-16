@@ -1,0 +1,27 @@
+Jason Haddix company 'Arcanum Sec'and training.
+https://www.arcanum-sec.com/training-overview
+
+
+The system prompt sets the rules, your prompt asks the question, and prompt injection is an attempt to trick the AI into breaking the rules.
+
+
+Funny AI LLM quirks:
+An AI LLM system preforms better if you give it very specific prompts that are extreme. IE: 'You're an expert in Go-Lang for 30 years.'
+Example:
+https://github.com/Arcanum-Sec/redbluepurpleAI/blob/main/silver/tech%20explain%20sec
+
+
+Prompt Injection Taxonomy:
+https://github.com/Arcanum-Sec/arc_pi_taxonomy
+
+
+Lakera AI Demo:
+https://gandalf.lakera.ai/baseline
+
+
+List of other vulnerable LLMs to play with:
+https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Vulnerable-LLM-Applications
+
+
+OWASP Top 10 LLM
+https://genai.owasp.org/llm-top-10/
